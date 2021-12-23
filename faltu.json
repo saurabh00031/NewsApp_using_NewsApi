@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": "BBC Sport",
+            "title": "'Simeone has totally transformed Atletico'",
+            "description": "As Diego Simeone celebrates 10 years in charge of Atletico Madrid, Spanish football writer Andy West looks at his impact.",
+            "url": "http://www.bbc.co.uk/sport/football/59742905",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/5C78/production/_122327632_diego.png",
+            "publishedAt": "2021-12-23T09:37:27.3046616Z",
+            "content": "'The best manager in the world?' Why Simeone and Atletico are the perfect fit\r\nTen years ago on Thursday, Atletico Madrid took a gamble by appointing one of their former players as manager. \r\nIt was … [+5197 chars]"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Tony Evans",
+            "title": "Football on the front line in the Covid culture war",
+            "description": "The sport was always going to be a battleground in the philosophical conflict that is dividing the country, writes Tony Evans",
+            "url": "http://www.independent.co.uk/sport/football/covid-jurgen-klopp-liverpool-le-tissier-b1981230.html",
+            "urlToImage": "https://static.independent.co.uk/2021/12/23/08/newFile-6.jpg?width=1200&auto=webp&quality=75",
+            "publishedAt": "2021-12-23T09:34:04Z",
+            "content": "The tweet is as stupid as it is jarring. I am a broken man, it said. Juergen (sic) Klopp has killed my love LFC youre dead to me.\r\nThe Twitter account in question has as its profile picture an illust… [+9076 chars]"
+        },
+        {
+            "source": {
+                "id": "four-four-two",
+                "name": "FourFourTwo"
+            },
+            "author": null,
+            "title": "Football rumours: Newcastle enter race for signature of Tottenham’s Joe Rodon",
+            "description": "The Telegraph and The Times report that Newcastle ⁠are targeting Tottenham and Wales centre-back Joe Rodon — already watched closely by Brighton, Watford and Leeds ⁠— as part of an effort to strengthen their defence. The Telegraph writes Magpies manager Eddie…",
+            "url": "https://www.fourfourtwo.com/news/football-rumours-newcastle-enter-race-for-signature-of-tottenhams-joe-rodon-1640245038000",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/Tta9vsUALrG73WUDdvsxZ5-1200-80.jpg",
+            "publishedAt": "2021-12-23T07:37:18Z",
+            "content": "What the papers say\r\nThe Telegraph and The Times report that Newcastle ⁠are targeting Tottenham and Wales centre-back Joe Rodon — already watched closely by Brighton, Watford and Leeds ⁠— as part of … [+1593 chars]"
+        },
+        {
+            "source": {
+                "id": "four-four-two",
+                "name": "FourFourTwo"
+            },
+            "author": null,
+            "title": "Aberdeen chair calls on Nicola Sturgeon to let more fans into Boxing Day matches",
+            "description": "Aberdeen chairman Dave Cormack appealed directly to Nicola Sturgeon to allow fans into Boxing Day matches after the Scottish Professional Football League (SPFL) partially brought forward the winter break.",
+            "url": "https://www.fourfourtwo.com/news/aberdeen-chair-calls-on-nicola-sturgeon-to-let-more-fans-into-boxing-day-matches-1640233813000",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/4vVKFxNHaRbnfBb2LRXBbH-1200-80.jpg",
+            "publishedAt": "2021-12-23T04:30:13Z",
+            "content": "Aberdeen chairman Dave Cormack appealed directly to Nicola Sturgeon to allow fans into Boxing Day matches after the Scottish Professional Football League (SPFL) partially brought forward the winter b… [+2649 chars]"
+        },
+        {
+            "source": {
+                "id": "nfl-news",
+                "name": "NFL News"
+            },
+            "author": null,
+            "title": "'Thursday Night Football' preview: What to watch for in 49ers-Titans",
+            "description": "NFL.com's Chase Goodbread breaks down four things to watch for when the San Francisco 49ers visit the Tennessee Titans in a TNF matchup full of playoff implications.",
+            "url": "https://www.nfl.com/news/thursday-night-football-preview-what-to-watch-for-in-49ers-titans",
+            "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/vfic0p26wpzr81beouob",
+            "publishedAt": "2021-12-23T04:07:24.3240899Z",
+            "content": "With three weeks left in the NFL season, its come to this for the Tennessee Titans and San Francisco 49ers: the Titans (9-5) are trying to shake a tail (the 8-6 Colts) in the AFC, while in the NFC, t… [+3329 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": "FOX Sports",
+            "title": "Meet Jared Folks, college football's first eight-year athlete",
+            "description": "East Tennessee State linebacker Jared Folks' story is a tale of perseverance and personal growth, Charlotte Wilder writes.",
+            "url": "http://www.foxsports.com/stories/college-football/meet-jared-folks-college-footballs-first-eight-year-athlete",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/12/1408/814/12.20.21_Jared-Folks-Feature_16x9.jpg?ve=1&tl=1",
+            "publishedAt": "2021-12-23T01:08:36Z",
+            "content": "By Charlotte WilderFOX Sports Columnist\r\nTheres a scene in the movie \"Tommy Boy\" in which Richard (David Spade) is tasked with picking up the delinquent graduate Tommy (played by Chris Farley, of cou… [+16917 chars]"
+        },
+        {
+            "source": {
+                "id": "nfl-news",
+                "name": "NFL News"
+            },
+            "author": null,
+            "title": "NFL Fantasy Football Podcast: Week 16 Fantasy Previews (aka Playoffs: The Sequel)",
+            "description": "Marcas Grant and Michael F. Florio are back for a new edition of the NFL Fantasy Football Podcast to preview the Week 16 fantasy slate.",
+            "url": "https://www.nfl.com/news/nfl-fantasy-football-podcast-week-16-fantasy-previews-aka-playoffs-the-sequel",
+            "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/zklixwwajfw7kodof0pq",
+            "publishedAt": "2021-12-23T01:07:24.1812888Z",
+            "content": "Marcas Grant and Michael F. Florio are back for a new edition of the NFL Fantasy Football Podcast to preview every game on the Week 16 slate! First, the hosts react to the news: Tampa Bay Buccaneers … [+707 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Jenna LaineESPN Staff Writer ",
+            "title": "Le'Veon Bell says he mulled retiring to pursue boxing before Tampa Bay Buccaneers called",
+            "description": "Le'Veon Bell said Wednesday he nearly retired to take up boxing after going six weeks without football after the Ravens cut him and the Buccaneers were the only team that made him want to play again.",
+            "url": "http://espn.go.com/nfl/story/_/id/32924254/leveon-bell-mulled-retiring-pursue-boxing-tampa-bay-buccaneers-called",
+            "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F1222%2Fr954358_1296x729_16%2D9.jpg",
+            "publishedAt": "2021-12-22T20:13:00Z",
+            "content": "TAMPA, Fla. -- Veteran running back Le'Veon Bell, who practiced with his new Tampa Bay Buccaneers teammates for the first time Wednesday, said he seriously contemplated retirement after going six wee… [+5045 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Heather DinichESPN Senior Writer ",
+            "title": "College Football Playoff champion can be crowned via COVID-related forfeit, new policy states",
+            "description": "The College Football Playoff committee has issued a new policy that allows a team to advance to the national championship - and ultimately win it - if opponents have to forfeit, according to its updated set of COVID-19 policies.",
+            "url": "http://espn.go.com/college-football/story/_/id/32924158/college-football-playoff-champion-crowned-via-covid-related-forfeit-says-new-policy",
+            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F1130%2Fr944683_1296x729_16%2D9.jpg",
+            "publishedAt": "2021-12-22T18:56:00Z",
+            "content": "A new College Football Playoff policy written this week in response to the surging omicron virus allows for a team to advance to the national championship - and ultimately win it - by its opponents h… [+3882 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+            "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+            "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+            "publishedAt": "2020-04-27T07:20:43Z",
+            "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+        }
+    ]
+}

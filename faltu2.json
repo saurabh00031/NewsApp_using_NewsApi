@@ -1,0 +1,97 @@
+{
+    "status": "ok",
+    "totalResults": 7,
+    "articles": [
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": null,
+            "title": "China locks down city of 13 million in bid to curb COVID outbreaks before Beijing Winter Olympics",
+            "description": "The restrictions in Xi'an come just weeks before the Winter Olympics and are some of the harshest China has imposed since it locked down Wuhan after the coronavirus was first detected there in 2019.",
+            "url": "https://www.cbsnews.com/news/china-covid-lockdown-xian-city-13-million-people-coronavirus/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/12/23/70ebdd53-f78d-4f24-8849-9ba1a080eb96/thumbnail/1200x630/70eea7f91161282afe0fcfadcf61ee56/china-covid-1237391882.jpg",
+            "publishedAt": "2021-12-23T12:15:56+00:00",
+            "content": "Beijing — China is redoubling efforts to control new virus outbreaks with a lockdown of the 13 million residents of the northern city of Xi'an following a spike in coronavirus cases. The measure come… [+2824 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": null,
+            "title": "China puts city of 13 million in lockdown ahead of Olympics",
+            "description": "BEIJING (AP) — China plunged a city of 13 million people into lockdown on Thursday to stamp out an increase in coronavirus infections, as the country doubles down on its “zero tolerance” policy just weeks before it is set to host the Winter Olympics.",
+            "url": "https://apnews.com/11ccda99a03066a686315e7fbeb59586",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/5543bb48f547435c9ebe528b0c91840d/3000.jpeg",
+            "publishedAt": "2021-12-23T06:40:01Z",
+            "content": "BEIJING (AP) — China plunged a city of 13 million people into lockdown on Thursday to stamp out an increase in coronavirus infections, as the country doubles down on its “zero tolerance” policy just … [+3437 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-uk",
+                "name": "Google News (UK)"
+            },
+            "author": "Guardian staff reporter",
+            "title": "China locks down 13 million people in Xi’an after detecting 127 Covid cases",
+            "description": "Snap lockdown, which prompted panic in the city, comes little over a month before Beijing is set to host the Winter Olympics",
+            "url": "https://amp.theguardian.com/world/2021/dec/23/china-locks-down-13-million-people-in-xian-after-detecting-127-covid-cases",
+            "urlToImage": "https://i.guim.co.uk/img/media/1552ccf2f2807e5aee107c1209f10b0c913e17a4/0_76_6000_3601/master/6000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7ebcf16d059e4a8709c26ae8356d8181",
+            "publishedAt": "2021-12-23T04:56:24+00:00",
+            "content": "Up to 13 million people have been placed into lockdown in the city of Xian in China, as authorities move to clamp down on the community spread of Covid-19 after 127 infections were found in a second … [+2840 chars]"
+        },
+        {
+            "source": {
+                "id": "nhl-news",
+                "name": "NHL News"
+            },
+            "author": "Nicholas J. Cotsonika",
+            "title": "NHL decision to not go to Olympics based on COVID-19 spread",
+            "description": "NHL players will not participate in the 2022 Beijing Olympics for one reason: COVID-19.",
+            "url": "https://www.nhl.com/news/nhl-decision-to-not-go-to-olympics-based-on-coronavirus-spread/c-329207292",
+            "urlToImage": "https://cms.nhl.bamgrid.com/images/photos/329207800/1024x576/cut.jpg",
+            "publishedAt": "2021-12-22T15:01:43Z",
+            "content": "NHL players will not participate in the 2022 Beijing Olympics for one reason: COVID-19.The NHL's announcement Wednesday had nothing to do with its longstanding issues with Olympic participation. The … [+5060 chars]"
+        },
+        {
+            "source": {
+                "id": "nhl-news",
+                "name": "NHL News"
+            },
+            "author": "Tom Gulitti",
+            "title": "NHL players will not participate in 2022 Beijing Olympics",
+            "description": "NHL players will not participate in the 2022 Beijing Olympics, the League announced Wednesday.",
+            "url": "https://www.nhl.com/news/nhl-players-will-not-participate-in-2022-beijing-olympics/c-329206756",
+            "urlToImage": "https://cms.nhl.bamgrid.com/images/photos/329206258/1024x576/cut.jpg",
+            "publishedAt": "2021-12-22T15:00:00Z",
+            "content": "NHL players will not participate in the 2022 Beijing Olympics, the League announced Wednesday.The NHL said the decision was made because the League's regular-season schedule has been disrupted as a r… [+6750 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hindu",
+                "name": "The Hindu"
+            },
+            "author": "PTI",
+            "title": "Tokyo Olympics | Deepika ninth in ranking round; Koreans top-two",
+            "description": "The performances will determine the seedings for the elimination rounds.",
+            "url": "https://www.thehindu.com/sport/tokyo-olympics-deepika-ninth-in-ranking-round-koreans-top-two/article35481902.ece",
+            "urlToImage": "https://www.thehindu.com/sport/uvmmr0/article35481908.ece/ALTERNATES/LANDSCAPE_615/thnak1330128994jpg",
+            "publishedAt": "2021-07-23T03:40:59Z",
+            "content": "Star Indian archer Deepika Kumari finished ninth in the womens individual ranking round as the countrys Olympic campaign kickstarted at the Yumenoshima Park in Tokyo on Friday.\r\n The world No.1 finis… [+1117 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hindu",
+                "name": "The Hindu"
+            },
+            "author": "The Hindu",
+            "title": "In search of gold: On Tokyo Olympics",
+            "description": "The Olympic Games remain the greatest sporting event for fans and athletes alike",
+            "url": "https://www.thehindu.com/opinion/editorial/in-search-of-gold-the-hindu-editorial-on-tokyo-olympics-2021/article35478354.ece",
+            "urlToImage": "https://www.thehindu.com/static/theme/default/base/img/og-image.jpg",
+            "publishedAt": "2021-07-22T18:32:00Z",
+            "content": "A medal can lose its lustre but the athletes sporting immortality is set in stone, such is the enduring allure of triumphs at the Olympics. Even a participant without any titles, is referred to as an… [+2521 chars]"
+        }
+    ]
+}
