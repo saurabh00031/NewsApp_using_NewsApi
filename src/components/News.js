@@ -277,7 +277,7 @@ export class News extends Component {
         console.log("constructor called from news component");
         this.state={
         
-             articles : this.articles,
+             articles : [],
              loading:false
 
         }
@@ -288,9 +288,6 @@ export class News extends Component {
 
   async componentDidMount() {
      let url="https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=4122768b6ffc41beab3643e9c004e946" 
-     
-     let btj=document.getElementById('btx');
-    
      let data= await fetch(url);
      let parseData=await data.json();
      console.log(data);
@@ -305,22 +302,24 @@ export class News extends Component {
         return (
             <>
             <div className="container mt-5 pb-5  pt-5">
-               <h2 class="bg-info pb-2 pt-2"><i>this is news component here</i></h2> 
+               <h2 className="bg-info pb-2 pt-2"><i>this is news component here</i></h2> 
                <br/>
 
              
                <div className="row">
                {
                 this.state.articles.map((element)=>{
-                return   <div className="col-md-4 mt-4" key={element.url}>
 
+            return <div className="col-md-4 mt-4" key={element.url}>
                   <NewsItem  title={element.title?element.title:"..."} description={element.description?element.description:".........."}  imageUrl={element.urlToImage} newsUrl={element.url}/>
                   </div>
                   
  
-               })}
+                })
+               
+               }
             
-               <button id="btx" class="btn btn-success">Next</button>
+               
                </div>
         
                {/* <div className="row">
